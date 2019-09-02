@@ -66,7 +66,7 @@ Added 546
 
 # You can create new temporal variables like this.
 
-``` console
+``` swift
 //
 //  StepCounter.swift
 //  PropertyObservers_Swift
