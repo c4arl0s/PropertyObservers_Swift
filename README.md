@@ -1,6 +1,9 @@
 # PropertyObservers_Swift
 PropertyObservers_Swift
 
+- willSet is called just before the value is stored.
+- didSet is called immediately after the new value is stored.
+
 ``` swift
 //
 //  StepCounter.swift
