@@ -64,7 +64,7 @@ About to set totalSteps to 896
 Added 546
 ```
 
-# You can create new temporal variables like this.
+# You can create new temporal variables like this and you get the same result.
 
 ``` swift
 //
