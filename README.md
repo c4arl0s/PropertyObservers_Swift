@@ -62,6 +62,18 @@ About to set totalSteps to 350
 Added 150
 About to set totalSteps to 896
 Added 546
+```
+
+# You can create new temporal variables like this.
+
+``` console
+About to set totalSteps to 200
+Added 200
+About to set totalSteps to 350
+Added 150
+About to set totalSteps to 896
+Added 546
+
 
 
 
