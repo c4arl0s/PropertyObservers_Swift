@@ -17,8 +17,8 @@ import Foundation
 
 class StepCounter {
     var totalSteps: Int = 0 {
-        willSet(newTotalSteps) {
-            print("About to set totalSteps to \(newTotalSteps)")
+        willSet {
+            print("About to set totalSteps to \(newValue)")
         }
         didSet{
             if totalSteps > oldValue {
