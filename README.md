@@ -4,6 +4,8 @@ PropertyObservers_Swift
 - willSet is called just before the value is stored.
 - didSet is called immediately after the new value is stored.
 
+# Take a look how newValue and oldValue are created into the willSet and didSet Methods.
+
 ``` swift
 //
 //  StepCounter.swift
